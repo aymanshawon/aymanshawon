@@ -24,12 +24,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center"><br/>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aymanshawon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
-
 ### Social Media 😮‍💨
 
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ayman.shawon.79)
