@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://miro.medium.com/max/272/1*WfLZHnqQUQWyBPqYupkpkQ.gif" width="140" alt="Network Animation">
+<img src="https://forums.living.ai/uploads/default/original/3X/b/5/b571c9fc8b5748127875e6bf1fdac629cf8a6974.gif" width="140" alt="Pixel Cyber Robot">
 
 # 👋 Hi, I'm Ayman Shawon
 
